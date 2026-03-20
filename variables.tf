@@ -17,3 +17,7 @@ variable "health_check_path" {
 variable "port_number" {
     default = 8080
 }
+
+variable "var.rule_priority" {
+    default = 10
+}
