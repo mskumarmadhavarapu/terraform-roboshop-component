@@ -15,8 +15,8 @@ variable "app_version" {
     default = "v3"
 }
 
-variable "var.rule_priority" {
-    default = 10
+variable "rule_priority" {
+    
 }
 
 variable "domain_name" {
