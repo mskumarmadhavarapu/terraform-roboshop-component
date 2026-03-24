@@ -20,5 +20,5 @@ variable "rule_priority" {
 }
 
 variable "domain_name" {
-     default = "mskdaws88s.online"
+    default = "mskdaws88s.online"
 }
